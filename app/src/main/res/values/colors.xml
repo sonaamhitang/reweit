@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#EA5656</color>
+    <color name="semi_transparent">#75000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="colorInfo">#3F51B5</color>
+    <color name="semi_transparent_black">#7e567ce9</color>
+    <color name="login_button">#567ce9</color>
+    <color name="edit_text_hint">#5b5b5b</color>
+    <color name="white">#fff</color>
+    <color name="colorEvent">#4caf50</color>
+    <color name="colorEmergency">#e53935</color>
+    <color name="colorWeather">#757575</color>
+    <color name="colorTraffic">#ffca28</color>
+</resources>
